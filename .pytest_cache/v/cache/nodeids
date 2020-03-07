@@ -1,0 +1,12 @@
+[
+  "tests/test_echo.py::TestEcho::test_all", 
+  "tests/test_echo.py::TestEcho::test_help", 
+  "tests/test_echo.py::TestEcho::test_lower", 
+  "tests/test_echo.py::TestEcho::test_lower_long", 
+  "tests/test_echo.py::TestEcho::test_none", 
+  "tests/test_echo.py::TestEcho::test_parser", 
+  "tests/test_echo.py::TestEcho::test_title", 
+  "tests/test_echo.py::TestEcho::test_title_long", 
+  "tests/test_echo.py::TestEcho::test_upper", 
+  "tests/test_echo.py::TestEcho::test_upper_long"
+]
